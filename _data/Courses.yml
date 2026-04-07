@@ -1,0 +1,22 @@
+subject: Professional Development
+listing-order: 9
+icon: "/assets/img/flask.webp"
+contents:
+  - title: Open Studies
+    description: Applied Data Science: Machine Learning, EPFL, Switzerland
+    date: May 2025 - Jan 2026
+  - title: Course
+    description: Kommunikation bei Demenz - short course at the Volkshochschule beider Basel
+    date: Nov 2025
+  - title: Workshop
+    description: Empowerment Tools for Leading Sustainably - Heidelberg International Professional Women's Forum.
+    date: Feb 2022
+  - title: Course
+    description: Motivate & inspire your team, EMBL Heidelberg.
+    date: Jul 2021
+  - title: Course
+    description: Conflict & Difficult Conversations, EMBL Heidelberg.
+    date: Jul 2021
+  - title: Summer School
+    description: EMBL Corporate Summer School, Heidelberg.
+    date: Jun 2021

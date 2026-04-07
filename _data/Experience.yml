@@ -1,22 +1,55 @@
-subject: Experiences
+subject: Experience
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: Zenith Therapeutics (Basel, Switzerland)
+    role: Senior Scientist, Computational Biologist
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
+      - Supported gene target identification in oncology and autoimmune indications by analyzing public bulk and single-cell RNA-seq from patient samples.
+      - Curated data from public resources (e.g. BioGRID, literature and genomic databases).
+      - Designed modular and reproducible pipelines for genomic data processing and QC, enabling rapid iteration and reuse across projects.
+    date: Aug 2025 - Mar 2026
+  - title: Ridgeline Discovery (Basel, Switzerland)
+    role: Scientist, Computational Biologist
     description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
+      - Led cross-functional projects integrating genomics and bioinformatics to prioritize therapeutic targets and mechanisms of action for oncology and autoimmune indications across four portfolio companies.
+      - Supported discovery of targets for advanced therapeutic modalities (degrader-antibody conjugates, molecular glues, monoclonal antibodies) by analyzing transcriptomics and perturbation screens, and integrating public resources for target annotation.
+      - Developed and optimized scalable pipelines for CRISPR screen analysis for two companies.
+      - Regularly presented results and strategic recommendations to managers, senior scientists and cross-functional stakeholders, aligning computational insights with portfolio decisions.
+      - Mentored colleagues in workflow development, version control and best practices.
+      - Analyzed pre-clinical data from non-human primates to identify potential confounding factors and refine study design and interpretation.
+    date: Jan 2025 - May 2025
+  - title: Cimeio Therapeutics  (Basel, Switzerland)
+    role: Scientist, Computational Biologist
     description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - Developed NGS analysis pipelines for short- and long-read data, including pooled CRISPR screens.
+      - Reduced Amp-seq analysis turnaround form 3 days to ~4 hours by implementing the workflow as a Nextflow DSL2 pipeline on HPC environments, enabling technicians with basic command-line skills to run analyses independently and accelerating decisions on sgRNA prioritization.
+      - Gained in-depth expertise in sgRNA off-target prediction and participated in the interpretation of NGS and optical genome mapping to de-risk guides across multiple CRISPR therapeutic programs.
+      - Built pipelines for variant calling and interpretation to assess CRISPR/Cas9 editing efficiency, on-target performance and off-target risk.
+      - Delivered automated reporting solutions and acted as technical lead for data interpretation in cross-functional collaborations, ensuring FAIR compliant, reproducible analyses.
+      - Communicated results in internal seminars to colleagues in the research and manufacturing teams, including students, technicians, scientists and directors.
+      - Mentored colleagues in data analysis and the usage of digital tools.
+      - Collaborated with other data scientist on the design of a target validation analytics platform, defining data requirements, analysis workflow and technical specifications (project de-prioritized before implementation).
+    date: Nov 2022 - Dec 2024
+  - title: European Molecular Biology Laboratory EMBL (Heidelberg, Germany)
+    role: EU-funded Postdoctoral Fellow
+    description: 
+      - Performed allele-specific analyses to study transcriptional regulators of genes that escape the process of X chromosome inactivation in mouse and the impact of LINE1 expression.
+      - Designed and developed 6 fully FAIR-compliant bioinformatics pipelines to process genomics data and extract information for downstream analyses (RNA-seq, DNA-seq, ChIP-seq, ATAC-seq, CUT&RUN), now adopted by lab members; the RNA-seq pipeline was further integrated into the EMBL genomics platform for routine use.
+      - Organized and curated large-scale, multi-omics datasets, enabling robust integrative analysis across platforms.
+      - Prepared libraries for next-generation sequencing (ATAC-seq, CUT&RUN).
+      - Trained and supervised junior researchers in both bioinformatics and NGS library preparation, ensuring reproducible practices and knowledge transfer.
+      - Wrote grant applications for a Marie Skłodowska-Curie (Horizon 2020) individual fellowship and an EMBO postdoctoral fellowship.
+      - Contributed to 4 publications (2 published, 1 pre-print and 1 in preparation) and presented research at 2 international conferences and 1 outreach event.
+      - Gained hands-on experience in tissue culture of mouse embryonic stem cells and neural progenitor cells.
+    date: Jun 2019 - Aug 2022
+  - title: Institut Curie (Paris, France)
+    role: PhD Fellow | Bridging Postdoctoral Fellow
+    description: 
+      - Conceptualized and managed projects in the gene regulation field.
+      - Analyzed functional genomics data (RNA-seq, ChIP-seq, ATAC-seq, Hi-C) to characterize enhancers and investigate the role of an architectural protein in zebrafish.
+      - Acquired skills in library preparation (ChIP-seq, ATAC-seq).
+      - Pioneered the generation of zebrafish knock-in alleles using the CRISPR/Cas9 genome editing technique to obtain an endogenously tagged protein, overcoming the need to generate custom antibodies.
+      - Communicated results in 2 first-author publications, internal seminars and conferences.
+      - Collaborated in 2 projects that resulted in 2 co-authored publications.
+    date: Oct 2014 - Mar 2019

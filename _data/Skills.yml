@@ -1,24 +1,30 @@
 subject: Skills
-listing-order: 5
+listing-order: 3
 icon: "/assets/img/screwdriver-wrench.svg"
 contents:
-  - title: Programming Languages
-    description: "
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg)
-    "
-  - title: Frameworks
-    description: "
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openstack/openstack-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gatsby/gatsby-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg)
-      ![devicon](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg)
-    "
+  - title: Genomics & NGS
+    description:
+      - Data processing, QC, visualization, comparative analysis, and biological interpretation for Amp-seq (Illumina and PacBio platforms), ATAC-seq, ChIP-seq, CUT&RUN, DNA-seq, Hi-C, bulk/single-cell RNA-seq.
+      - Variant calling from short- and long-read sequencing data (GATK, freebayes, bcftools, pbsv).
+      - Experienced with genome browsers and 3D-genome tools (IGV, Juicebox, HiGlass, pyGenomeTracks).
+      - Library preparation of ATAC-seq, ChIP-seq and CUT&RUN.
+  - title: CRISPR-based technologies
+    description:
+      - Analysis of pooled CRISPR screens, including guide quantification and hit calling.
+      - sgRNA off-target prediction and interpretation of off-target profiling methods (GUIDE-seq, DISCOVER-seq, CHANGE-seq, Optical Genome Mapping).
+      - Experience establishing transgenic zebrafish lines.
+  - title: Programming & software engineering
+    description:
+      - R/Bioconductor (expert); Bash (expert); Python (intermediate); awk.
+      - Workflow development with Nextflow; containerization with Docker; basic exposure to Kubernetes.
+      - Version control with git/GitHub.
+      - Linux/Unix and HPC environments.
+  - title: Machine learning
+    description:
+      - Supervised and unsupervised methods (regression, classification, clustering, dimensionality reduction).
+      - Basic experience with convolutional neural networks.
+  - title: Data management & reproducibility
+    description:
+      - Pipeline optimization and benchmarking.
+      - Traceable and reproducible analyses (Jupyter notebooks, RMarkdown).
+      - Adherence to FAIR principles and systematic documentation for collaborative projects.

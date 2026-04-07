@@ -1,11 +1,14 @@
 subject: Publications
-listing-order: 4
-icon: "/assets/img/flask.svg"
+listing-order: 10
+icon: "/assets/img/book.png"
 contents:
   - title: Journal
     ref: 
-      - "[1] **M. Yankovich**, L. Hernández, M. Roveri, “[A symmetric encryption method with biometric authorization for constrained environments](https://scholar.google.com/),” *Cryptography*, vol. x, no. x, pp. xxx–xxx, 202x."
-      - "[2] **M. Yankovich**, F. Arute, G. Persiano, G. Segev, “[Authorized public-key search on iiot applications](https://scholar.google.com/),” *IEEE Transactions on Information Forensics and Security*, pp. xxx–xxx, 202x."
-  - title: Conference
+      - "[1] **Pérez-Rico YA**, Le Breton A., Bousard A, Misikova LH, Mulugeta E, de Almeida SF, Muotri AR, Heard E, Gendrel AV. “[Transcriptional perturbation of LINE-1 elements reveals their cis-regulatory potential](https://www.biorxiv.org/content/10.1101/2024.02.20.581275v1).” *bioRxiv* doi: 10.1101/2024.02.20.581275."   
+      - "[2] Hauth A, Panten J, Kneuss E, Picard C, Servant N, Rall I, **Pérez-Rico YA**, Clerquin L, Servaas N, Villacorta L, Jung F, Luong C, Chang HY, Zaugg JB, Stegle O, Odom DT, Loda A, Heard E. “[Escape from X inactivation is directly modulated by levels of Xist non-coding RNA](https://www.nature.com/articles/s41556-025-01823-6).” *Nat Cell Biol.* 2025 Dec 15. doi: 10.1038/s41556-025-01823-6."
+      - "[3] **Pérez-Rico YA**, Barillot E, Shkumatava A. “[Demarcation of Topologically Associating Domains Is Uncoupled from Enriched CTCF Binding in Developing Zebrafish](https://www.sciencedirect.com/science/article/pii/S2589004220302315).” *iScience*. 2020 May 22;23(5):101046. doi: 10.1016/j.isci.2020.101046."
+  - title: Book Chapter
     ref:
-      - "[3] I. Lebedev, **M. Yankovich**, L. Wang, G. Segev, “[Post-training of deep bidirectional transformers for language understanding](https://scholar.google.com/),” *in Proc. 99th Annu. Meeting Assoc. Comput. Linguistics*, pp. xxx–xxx, 202x."
+      - "[4] Collombet S, **Pérez-Rico YA**, Ancelin K, Servant N, Heard E. “[Bioinformatic Analysis of Single-Cell Hi-C Data from Early Mouse Embryo](https://experiments.springernature.com/articles/10.1007/978-1-0716-0958-3_20).” *Methods Mol Biol.* 2021;2214:295-316. doi: 10.1007/978-1-0716-0958-3_20."
+  - title: ORCID
+    description: Full list of publications available in [ORCID](https://orcid.org/0000-0001-8436-0748).

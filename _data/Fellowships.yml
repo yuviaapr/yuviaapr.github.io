@@ -1,0 +1,13 @@
+subject: Fellowships
+listing-order: 5
+icon: "/assets/img/trophy.svg"
+contents:
+  - title: Marie Skłodowska-Curie Actions - Individual Fellowship
+    description: European Union's Horizon 2020
+    date: Feb 2020
+  - title: Complementary Fellowship for Graduate Studies
+    description: Secretaría de Ciencia, Tecnología e Innovación (Seciti), Government of Mexico City
+    date: 2015
+  - title: PhD Program Fellowship
+    description: Vienna BioCenter (VBC), Austria (kindly declined).
+    date: Jan 2012
