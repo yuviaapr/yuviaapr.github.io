@@ -1,6 +1,6 @@
 subject: Professional Development
 listing-order: 9
-icon: "/assets/img/flask.webp"
+icon: "/assets/img/screwdriver-wrench.svg"
 contents:
   - title: Open Studies
     description: Applied Data Science - Machine Learning, EPFL, Switzerland
