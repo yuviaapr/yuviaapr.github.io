@@ -3,7 +3,7 @@ listing-order: 7
 icon: "/assets/img/group.webp"
 contents:
   - title: PhD student supervision
-    description: Supervised a student at the Gulbenkian Institute for Molecular Medicine in ChIP-seq data analysis as part of an article revision.
+    description: Supervised Anna Françoise Lucienne Le Breton at the Gulbenkian Institute for Molecular Medicine in ChIP-seq data analysis as part of an article revision.
     date: Apr 2025 - Dec 2025
   - title: Bioinformatics
     description:
@@ -11,11 +11,11 @@ contents:
       - Developed internal training materials and reusable code templates to standardize and scale statistical analysis and visualization at Cimeio Therapeutics, Ridgeline Discovery and Zenith Therapeutics.
     date: Nov 2022 - Mar 2026
   - title: Technician supervision
-    description: Trained a technician at Cimeio Therapeutics in command-line usage and Amp-seq analysis using a custom Nextflow pipeline I developed.
+    description: Trained Sophie Lackner at Cimeio Therapeutics in command-line usage and Amp-seq analysis using a custom Nextflow pipeline I developed.
     date: Jun 2023 - Dec 2025
   - title: Technician supervision
-    description: Trained a technician at EMBL in NGS library preparation for ATAC-seq and CUT&RUN.
+    description: Trained Isabel Rall at EMBL in NGS library preparation for ATAC-seq and CUT&RUN.
     date: Nov 2021 - Jan 2022
   - title: Master student supervision
-    description: Supervised a student at EMBL in bioinformatics analysis, tissue culture and molecular biology techniques.
+    description: Supervised Léna Clerquin at EMBL in bioinformatics analysis, tissue culture and molecular biology techniques.
     date: Jan 2021 - Jun 2021
