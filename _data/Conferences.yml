@@ -1,0 +1,13 @@
+subject: Conferences
+listing-order: 10
+icon: "/assets/img/globe.svg"
+contents:
+  - title: Alzheimer’s Disease International 37th Global Conference
+    description: Lyon, France - attendee
+    date: Apr 2026
+  - title: Alzheimer’s Disease International 36th Global Conference
+    description: Kraków, Poland - online attendee
+    date: Apr 2024
+  - title: Alzheimer’s Disease International 35th Global Conference
+    description: London, UK - online attendee
+    date: Jun 2022
